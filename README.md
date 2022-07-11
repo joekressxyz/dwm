@@ -1,2 +1,1 @@
-# dwm
-fork of luke's dwm with a few tweaks.
+https://github.com/lukesmithxyz/
